@@ -1,6 +1,7 @@
 # SiteParser
  Parses all links from the site / creates map of site
 e.g.
+
 http://skillbox.ru
 https://skillbox.ru/oferta.pdf
 https://skillbox.ru/privacy_policy.pdf
